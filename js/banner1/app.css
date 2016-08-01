@@ -4,7 +4,7 @@
 .wrap_in{overflow:visible;}
 .banner{ background:#F6F6F6; padding-top:40px; overflow:hidden;}
 .lunz {width:1200px; height:450px; margin:0 auto; position:relative;}
-.lunz .images{position:relative; top:-10px;}
+.lunz .images{position:relative; top:-10px;} 
 .lunz .images ul li {position: absolute; z-index:6; border-radius:5px; overflow:hidden; box-shadow: 0 4px 6px #ccc;}
 .lunz .images ul li img {width: 100%; height: 100%;}
 .lunz .images ul li.no0 {z-index: 1; width: 248px; height: 131px; top: 100px; left: 0; opacity:0; filter:alpha(opacity=0);}
